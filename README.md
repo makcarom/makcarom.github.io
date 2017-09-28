@@ -4,10 +4,10 @@
 Мои домашние задания
 
 
-[2 Урок](makcarom.github.io/lesson_02) - Вырезание всей графики из макета
+[2 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_02) - Вырезание всей графики из макета
 
 
-[3 Урок](makcarom.github.io/lesson_03) - Настройка Sublime Text 3 и правильное создание папки для проекта
+[3 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_03) - Настройка Sublime Text 3 и правильное создание папки для проекта
 
 
 [4 и 5 Уроки](makcarom.github.io/lessons_04_05) - Сверстаная книжка на html и css
@@ -28,10 +28,10 @@
 [9 Урок](makcarom.github.io/lesson_09) - Макет из 7 Урока, но сверстанный с использование bootstrap 3
 
 
-[10 Урок](makcarom.github.io/lesson_10) - Написать код в less
+[10 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_10) - Написать код в less
 
 
-[11 Урок](makcarom.github.io/lesson_11) - Сделать html и css сниппеты и пройти тест по emmet
+[11 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_11) - Сделать html и css сниппеты и пройти тест по emmet
 
 
 [12 Урок](#) - Создать страницу на github
