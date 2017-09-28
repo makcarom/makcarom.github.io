@@ -1,0 +1,67 @@
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333;
+}
+.header {
+	font-size: 20px;
+	line-height: 1.5;
+	margin-top: 0;
+}
+.header span {
+	display: block;
+	margin-top: 125px;
+}
+.video {
+	margin-top:85px;
+}
+p.form-header {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 40px;
+}
+.form {
+	border: 5px solid #3333cc;
+	padding: 30px 20px;
+	margin-top: 85px;
+}
+.form-btn, .form-input {
+	margin: 10px auto;
+}
+.form-btn {
+	background-color: #3333cc;
+}
+.section-header h2{
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 150px;
+}
+.features .col-lg-3{
+	margin-top: 85px;
+}
+.features p {
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 19px;
+}
+.clients {
+	text-align: center;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 100px;
+	margin-bottom: 70px;
+}
+.btn-client {
+	margin-top: 90px;
+	width: 300px;
+}
+.fotos {
+	margin-bottom: 35px;
+}
+.btn-primary:hover {
+	background-color: red;
+	color:black;
+	border: 2px solid red;
+	transition: 0.4s;
+}
