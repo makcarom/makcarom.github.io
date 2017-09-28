@@ -7,7 +7,7 @@
 [2 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_02) - Вырезание всей графики из макета
 
 
-[3 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_03) - Настройка Sublime Text 3 и правильное создание папки для проекта
+[3 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lessons_03) - Настройка Sublime Text 3 и правильное создание папки для проекта
 
 
 [4 и 5 Уроки](makcarom.github.io/lessons_04_05) - Сверстаная книжка на html и css
