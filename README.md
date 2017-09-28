@@ -22,5 +22,5 @@
 [8 Урок](makcarom.github.io/lesson_08) - Сверстанный макет с видео и формой
 
 
-[9 Урок](makcarom.github.io/lesson_09) - Макет из 8 Урока, но сверстанный с использование bootstrap 3
+[9 Урок](makcarom.github.io/lesson_09) - Макет из 7 Урока, но сверстанный с использование bootstrap 3
 
