@@ -1,0 +1,98 @@
+* {
+	box-sizing: border-box;
+
+}
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333;
+}
+.container {
+		padding: 30px 10%;
+		text-align: center;
+}
+.header {
+	text-align: center;
+	margin-top: 125px;
+	margin-bottom: 85px;
+}
+.header h1 {
+	font-size: 24px;
+}
+.big-header{
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+.video{
+	display: inline-block;
+	margin-right: 30px;
+}
+.form {
+	display: inline-block;
+	border: 5px solid #3333cc;
+	width: 350px;
+	height: 310px;
+	text-align: center;
+	vertical-align: top;
+	padding: 20px;
+}
+.form p {
+	margin-bottom: 40px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.name, .email {
+	display: block;
+	margin-bottom: 10px;
+	width: 300px;
+	height: 50px;
+}
+.btn {
+	color: #ffffff;
+	background-color: #3333cc;
+	font-weight: 300;
+	font-size: 18px;
+	height: 65px;
+	width: 295px;
+	padding: 16px;
+	display: block;
+	margin: 11px auto;
+}
+.form input {
+	width: 300px;
+	padding: 15px;
+	border: 1px solid #333;
+	font-size: 18px;
+}
+.h1-cont {
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 150px;
+	margin-bottom: 85px;
+}
+.col {
+	display: inline-block;
+	margin-right: 110px;
+	margin-bottom: 100px;
+}
+.col p{
+	margin-top: 22px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.client-header {
+	margin-top: 100px;
+	margin-bottom: 75px;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.client-foto {
+	display: inline-block;
+	width: 215px;
+	height: 215px;
+	margin-right: 25px;
+	margin-bottom: 35px;
+}
