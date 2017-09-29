@@ -35,3 +35,6 @@
 
 
 [12 Урок](#) - Создать страницу на github
+
+
+[13 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_13) - PixelPerfect
