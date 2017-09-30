@@ -12,12 +12,12 @@ h2 {
 	font-weight: bold;
 }
 .box input {
-	width: 260px;
+	width: 250px;
 	height: 30px;
 	background: url(../imgs/bg.png);
 	display: block;
 	border: 0;
-	padding: 10px;
+	padding-left: 10px;
 }
 
 .box {
