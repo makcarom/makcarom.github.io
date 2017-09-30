@@ -16,6 +16,8 @@ h2 {
 	height: 30px;
 	background: url(../imgs/bg.png);
 	display: block;
+	border: 0;
+	padding: 10px;
 }
 
 .box {
