@@ -40,7 +40,7 @@
 [13 Урок](makcarom.github.io/lesson_13) - PixelPerfect
 
 
-[14 Урок](makcarom.github.io/lesson_14) - Шапка сайта
+[Практика 1](makcarom.github.io/lesson_14) - Шапка сайта
 
 
-[14.1 Урок](makcarom.github.io/lesson_14.1) - Шрифты
+[14 Урок](makcarom.github.io/lesson_14.1) - Шрифты
