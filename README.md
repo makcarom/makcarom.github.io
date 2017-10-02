@@ -43,4 +43,4 @@
 [14 Урок](makcarom.github.io/lesson_14) - Шапка сайта
 
 
-[15 Урок](makcarom.github.io/lesson_14.1) - Шрифты
+[14.1 Урок](makcarom.github.io/lesson_14.1) - Шрифты
