@@ -44,3 +44,6 @@
 
 
 [14 Урок](makcarom.github.io/lesson_14.1) - Шрифты
+
+
+[Практика 2](makcarom.github.io/lesson_15) - Главный экран
