@@ -99,6 +99,7 @@ a:hover {
 .wrap-block {
   display: table-cell;
   vertical-align: center;
+  text-align: right;
 }
 .form {
   margin-top: 2.5rem;
