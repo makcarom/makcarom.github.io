@@ -47,3 +47,6 @@
 
 
 [Практика 2](makcarom.github.io/lesson_15) - Главный экран
+
+
+[15 Урок](makcarom.github.io/lesson_15.1) - Эффекты при наведении
