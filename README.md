@@ -50,3 +50,6 @@
 
 
 [15 Урок](makcarom.github.io/lesson_15.1) - Эффекты при наведении
+
+
+[Практика 3](makcarom.github.io/lesson_16) - Адаптивность
