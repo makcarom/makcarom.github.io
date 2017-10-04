@@ -188,3 +188,11 @@ small.bellow-form {
     font-size: 1.8rem;
   }
 }
+@media (max-width: 365px) {
+	form {
+		button.button {
+			font-size: 1.2rem;
+		}
+
+	}
+}
