@@ -18,10 +18,6 @@ h2 {
 	vertical-align: top;
 	width: 200px;
 	height: 200px;
-	opacity:0.8;
-	-moz-opacity:0.8;
-	-khtml-opacity: 0.8;
-	background-color:#000;
 }
 .image-one {
 	background: url(../img/1.jpg) center no-repeat;
@@ -72,11 +68,48 @@ h2 {
 	background: blue;
 	border-radius: 40px;
 	border-color: black;
-
+	height: 200px;
+	width: 300px;
+	background: url(../img/2.jpg) center no-repeat;
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
 }
-.image:hover {
-	opacity:1;
-	-moz-opacity:1;
-	-khtml-opacity: 1;
-	background-color:#000;
+.button-one::before {
+	content:'';
+	display: block;
+	width: 100%;
+	height: 1px;
+	transform-origin: 100%;
+	transform: scaleX(0);
+	background-color: red;
+	transition: all .8s;
+}
+.button-one::after{
+	content:'';
+	display: block;
+	width: 100%;
+	height: 1px;
+	transform-origin: 0%;
+	transform: scaleX(0);
+	background-color: red;
+	transition: all .8s;
+}
+.button-one:hover::before {
+	transform: scaleX(1);
+}
+.button-one:hover::after {
+	transform: scaleX(1);
+}
+.image::before {
+    content: '';
+    display: block;
+    height: 100%;
+    background-color: black;
+    opacity: 0;
+    transition: .5s;
+}
+.image:hover:before {
+    opacity: .5;
 }
