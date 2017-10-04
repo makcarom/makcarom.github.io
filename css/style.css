@@ -1,0 +1,13 @@
+.fotorama {
+	position: absolute;
+	left: 50%;
+	margin-left: -300px;
+	bottom: 50%;
+	margin-bottom: -400px;
+	border: 5px solid black;
+	z-index: 1;
+}
+body {
+	background: url('../imgs/bg.jpg') center left no-repeat;
+	z-index: 2;
+}
