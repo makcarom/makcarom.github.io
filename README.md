@@ -55,4 +55,4 @@
 [Практика 3](makcarom.github.io/lesson_16) - Адаптивность
 
 
-[16 Урок](makcarom.github.io/lesson_16.1) - Слайдер
+[16 Урок](makcarom.github.io/lesson_16.1) - Слайдер 1
