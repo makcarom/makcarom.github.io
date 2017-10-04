@@ -56,3 +56,6 @@
 
 
 [16 Урок](makcarom.github.io/lesson_16.1) - Слайдер
+
+
+[Практика 4](makcarom.github.io/lesson_17) - Слайдер с преймуществами
