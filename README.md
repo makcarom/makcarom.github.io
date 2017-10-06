@@ -3,14 +3,6 @@
 # Максим Аромяэ / [VK](https://vk.com/m.aromae)
 Мои домашние задания
 <img src="https://github.com/makcarom/makcarom.github.io/blob/master/lesson_16.1/imgs/1.jpg">
-<style>
-   img {
-  position: absolute;
-  right: 0;
-  margin-right: -20px;
-  }
- </style>
-
 
 [2 Урок](https://github.com/makcarom/makcarom.github.io/tree/master/lesson_02) - Вырезание всей графики из макета
 
