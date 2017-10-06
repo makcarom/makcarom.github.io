@@ -59,3 +59,6 @@
 
 
 [Практика 4](makcarom.github.io/lesson_17) - Слайдер с преймуществами
+
+
+[17 Урок](makcarom.github.io/lesson_17.1) - Кнопка с модальным окном
