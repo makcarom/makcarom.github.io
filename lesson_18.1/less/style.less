@@ -1,0 +1,63 @@
+@color: #00ccff;
+body {
+	background: url(../imgs/bg.png);
+	font-family: 'Ubuntu', sans-serif;
+}
+h1 {
+	text-align: center;
+	color: @color;
+	font-size: 24px;
+	margin: 0;
+	margin-top: 80px;
+	margin-bottom: 50px;
+	text-transform: uppercase;
+	strong {
+		font-size: 36px;
+	}
+}
+.panel-group {
+	position: absolute;
+	left: 50%;
+	margin-left: -430px;
+	a {
+		font-size: 23.2px;
+		outline: none;
+		text-decoration: none;
+		color: #fff;
+		text-align: center;
+	}
+}
+.panel-heading {
+	width: 860px;
+	height: 55px;
+	padding: 20px;
+	margin-bottom: 5px;
+}
+.panel-collapse{
+	margin-top: -5px;
+}
+.panel-default {
+	border: 0;
+}
+#headingOne, #headingTwo, #headingThree, #headingFour, #headingFive {
+	background-color: @color;
+}
+.panel-body {
+	font-size: 21px;
+	width: 845px;
+	border: 2px solid #cccccc;
+	border-radius: 0 0 5px 5px;
+	margin-left: 7.5px;
+	margin-bottom: 0;
+	margin-top: 0;
+	span.text {
+		width: 745px;
+		display: inline-block;
+		margin-bottom: 20px;
+		margin-left: 15px;
+		margin-top: -10px;
+	}
+}
+.panel-group .panel + .panel {
+	margin-top: 0;
+}
