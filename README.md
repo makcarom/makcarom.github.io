@@ -65,3 +65,9 @@
 
 
 [Практика 5](makcarom.github.io/lesson_18) - Создание собственного модального окна
+
+
+[18 Урок / Часть 2](makcarom.github.io/lesson_18.1) - Аккардеон
+
+
+[18 Урок / Часть 1](makcarom.github.io/lesson_18.2) - Табы
