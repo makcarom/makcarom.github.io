@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>Register</title>
+
+	<link rel="stylesheet" href="css/bootstrap.css">	
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	
+	<div class="form">
+
+	  <!-- Nav tabs -->
+	  <ul class="nav nav-tabs" role="tablist">
+	    <li role="presentation" class="active animated bounce"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Вход</a></li>
+	    <li role="presentation" class="animated flipInY"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Регистрация</a></li>
+	
+	  </ul>
+
+	  <!-- Tab panes -->
+	  <div class="tab-content">
+	    <div role="tabpanel" class="tab-pane active" id="home">
+	    	<input class="input animated fadeInLeft" type="text" placeholder="Ваше имя">
+	    	<input class="input animated fadeInRight" type="text" placeholder="Пароль">
+	    	<div class="small">
+	    		<small class="hinge"><a href="#">Забыли пароль?</a></small>
+	    		<input class="checkbox" type="checkbox"><p class=" animated jackInTheBox">Напомнить мне</p>
+	    	</div>
+	    	<div class="button ">
+	    		<button>Войти</button>
+	    		<div class="bellow-btn " data-wow-delay="1s"></div>
+	    	</div>
+
+
+	    </div>
+	    <div role="tabpanel" class="tab-pane animated rollIn" id="profile">А зарегистрироваться нельзя :)</div>
+	  </div>
+
+	</div>
+
+	<script src="https://raw.githubusercontent.com/matthieua/WOW/master/dist/wow.min.js"></script>
+	<script>
+		var wow = new WOW;
+		wow.init();
+	</script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</body>
+</html>
