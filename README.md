@@ -71,3 +71,7 @@
 
 
 [18 Урок / Часть 2](makcarom.github.io/lesson_18.1) - Аккардеон
+
+
+
+[Практика 6](makcarom.github.io/lesson_19) - Секция с услагами и ценами
