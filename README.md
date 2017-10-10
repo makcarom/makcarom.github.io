@@ -78,3 +78,6 @@
 
 
 [19 Урок](makcarom.github.io/lesson_19.1) - Анимация
+
+
+[Практика 7](makcarom.github.io/lesson_20) - Слайдер с отзывами
