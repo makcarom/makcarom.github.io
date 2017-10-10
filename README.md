@@ -75,3 +75,6 @@
 
 
 [Практика 6](makcarom.github.io/lesson_19) - Секция с услагами и ценами
+
+
+[19 Урок](makcarom.github.io/lesson_19.1) - Анимация
