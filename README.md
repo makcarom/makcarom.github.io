@@ -81,3 +81,6 @@
 
 
 [Практика 7](makcarom.github.io/lesson_20) - Слайдер с отзывами
+
+
+[20 Урок](makcarom.github.io/lesson_20.1) - Вставка видео на задний фон
