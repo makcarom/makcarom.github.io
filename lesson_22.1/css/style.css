@@ -1,0 +1,72 @@
+.screen {
+  height: 100vh;
+  width: 100%;
+  background-color: #ccc;
+}
+.screen-body {
+  background-color: #fff;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+}
+h1 {
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+}
+.contact {
+  position: absolute;
+  z-index: 99;
+  height: 43rem;
+  width: 38rem;
+  background-color: red;
+  text-align: center;
+  color: #fff;
+  padding: 7rem;
+}
+.contact h1 {
+  font-size: 3rem;
+}
+.contact p {
+  margin-top: 3rem;
+  font-size: 1.7rem;
+}
+.contact .email {
+  text-decoration: underline;
+}
+.footer {
+  text-align: center;
+}
+.footer .logo img {
+  width: 6rem;
+  height: 6rem;
+  margin-top: 2rem;
+}
+.footer .logo-text {
+  margin-top: 2.2rem;
+  font-size: 1.6rem;
+  text-align: left;
+  color: black;
+}
+.footer-info {
+  font-size: 1.6rem;
+  color: #666666;
+  margin-top: 3.6rem;
+}
+.footer-contact {
+  margin-top: 2rem;
+  color: black;
+}
+.footer-contact strong {
+  font-size: 2.2rem;
+  margin-bottom: 1.5rem;
+}
+.footer-contact p {
+  font-size: 1.4rem;
+}
