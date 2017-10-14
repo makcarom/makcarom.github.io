@@ -96,3 +96,6 @@
 
 
 [22 Урок](makcarom.github.io/lesson_22.1) - Футер с картой от Яндекса
+
+
+[Практика 10](makcarom.github.io/lesson_23) - Блок с "проблемами"
